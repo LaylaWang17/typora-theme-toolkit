@@ -1,7 +1,3 @@
-# Ignore everything
-*
-
-
 !.gitignore
 !lorem-ipsum.md
 !README.md
